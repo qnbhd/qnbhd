@@ -26,23 +26,22 @@ My small repository with study notes and notebooks [cs-mat](https://github.com/q
   - [Loripy - python templating language](https://github.com/qnbhd/loripy)
   - [QnGraph - sdl2-based graph-plotter](https://github.com/qnbhd/qn-graph)
   - [PyGo - python go-subset compiler](https://github.com/qnbhd/pygo)
+ 
+***
 
 **Hard-skills**:
 
-+ Python
-  - Python Core
-  - Clean code
-  - Working with external API
-  - Git
-  - Web-site parsing
-  - Linux
-  - Gunicorn
-  - Frontend (html, css, js, bootstrap)
-  - Numpy, Scipy, Matplotlib, Plotly, Pandas
-  
-+ Understanding the inner workings of compilers
-
-+ Math, WolframMathematica, Scilab
+- Python Core
+- Clean code
+- Working with external API
+- Web-site parsing (re, beatifulsoap)
+- Gunicorn
+- Git
+- Linux
+- Frontend (html, css, js, bootstrap)
+- Numpy, Scipy, Matplotlib, Plotly, Pandas
+- Understanding the inner workings of compilers
+- Math, WolframMathematica, Scilab
 
 **About me in life**
 
