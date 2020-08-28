@@ -29,28 +29,20 @@ My small repository with study notes and notebooks [cs-mat](https://github.com/q
 
 **Hard-skills**:
 
-+ Python Core
-+ Clean code
-+ OOP
-+ Working with external API
-+ Git
-+ Web-site parsing
-+ Linux
-+ Gunicorn
-+ Frontend (html, css, js, bootstrap)
++ Python
+  - Python Core
+  - Clean code
+  - Working with external API
+  - Git
+  - Web-site parsing
+  - Linux
+  - Gunicorn
+  - Frontend (html, css, js, bootstrap)
+  - Numpy, Scipy, Matplotlib, Plotly, Pandas
+  
++ Understanding the inner workings of compilers
 
-***
-
-+ Numpy
-+ Scipy
-+ Matplotlib, plotly
-+ Pandas
-
-***
-
-+ Math
-+ WolframMathematica
-+ Scilab
++ Math, WolframMathematica, Scilab
 
 **About me in life**
 
