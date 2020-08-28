@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-![Logo](https://i.postimg.cc/6qdjKrtS/qnbhd-logo.png)
-
-***
-
 <a href="https://t.me/qnbhd"><img height=32 width=32 src="https://telegrapher.ru/images/download/icons/telegram.svg" /></a>
 <a href="https://vk.me/qnbhd"><img height=32 width=32 src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg"/></a>
 <br>
