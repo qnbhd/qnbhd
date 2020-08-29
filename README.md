@@ -6,7 +6,7 @@
 
 My name is Konstantin. (nickname: qnbhd or Kirigaya Yukimura)
 
-At the moment I am living at beautiful Saint-Petersburg and studying at Baltical State Technical University (Computer Science). 
+I currently live in the beautiful city of Saint Petersburg and study at Baltical State Technical University (Computer Science)
 No commercial development experience at the moment. I like development and IT in general because you can bring all your ideas to life!
 
 ***
@@ -16,7 +16,7 @@ No commercial development experience at the moment. I like development and IT in
 + I'm currently learning Computer Science
   - Mathematics (Calculus, Discrete Math, Numerical Methods, Differential Equations, Probability Theory, Statistics)
   - Python, C++
-  - Web-development (Flask, Django, DataBases(ORM, raw SQL), REST, frontend (html, css, js, ...)
+  - Web-development :: Flask, Django, DataBases(ORM, raw SQL), REST, frontend (html, css, js, ...)
   - Data Science, Machine Learning
   - Latex
   
