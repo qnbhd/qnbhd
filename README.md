@@ -34,7 +34,7 @@ My small repository with study notes and notebooks [cs-mat](https://github.com/q
 - Python Core
 - Clean code
 - Working with external API
-- Web-site parsing (re, beatifulsoap)
+- Web-site parsing (re, beautifulsoup)
 - Gunicorn
 - Git
 - Linux
