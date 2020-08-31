@@ -6,7 +6,7 @@
 
 My name is Konstantin. (nickname: qnbhd or Kirigaya Yukimura)
 
-I currently live in the beautiful city of Saint Petersburg and study at Baltical State Technical University (Computer Science)
+I currently living in the beautiful city of Saint Petersburg and studying at Baltical State Technical University (Computer Science) 
 No commercial development experience at the moment. I like development and IT in general because you can bring all your ideas to life!
 
 ***
