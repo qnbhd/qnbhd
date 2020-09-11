@@ -15,7 +15,7 @@ No commercial development experience at the moment. I like development and IT in
 
 + I'm currently learning Computer Science
   - Mathematics (Calculus, Discrete Math, Numerical Methods, Differential Equations, Probability Theory, Statistics)
-  - Python, C++
+  - Python, C++, Golang
   - Web-development :: Flask, Django, DataBases(ORM, raw SQL), REST, frontend (html, css, js, ...)
   - Data Science, Machine Learning
   - Latex
