@@ -16,6 +16,7 @@ No commercial development experience at the moment. I like development and IT in
 + I'm currently learning Computer Science
   - Mathematics (Calculus, Discrete Math, Numerical Methods, Differential Equations, Probability Theory, Statistics)
   - Python, C++, Golang
+  - Compilers
   - Web-development :: Flask, Django, DataBases(ORM, raw SQL), REST, frontend (html, css, js, ...)
   - Data Science, Machine Learning
   - Latex
@@ -23,6 +24,7 @@ No commercial development experience at the moment. I like development and IT in
 My small repository with study notes and notebooks [cs-mat](https://github.com/qnbhd/cs-mat)
   
 + My main projects: 
+  - [Ingloly - simple INLY go-based interpreter](https://github.com/qnbhd/ingoly)
   - [Loripy - python templating language](https://github.com/qnbhd/loripy)
   - [QnGraph - sdl2-based graph-plotter](https://github.com/qnbhd/qn-graph)
   - [PyGo - python go-subset compiler](https://github.com/qnbhd/pygo)
@@ -33,6 +35,7 @@ My small repository with study notes and notebooks [cs-mat](https://github.com/q
 
 - Python Core
 - Clean code
+- Compilers
 - Working with external API
 - Web-site parsing (re, beautifulsoup)
 - Gunicorn
@@ -40,7 +43,6 @@ My small repository with study notes and notebooks [cs-mat](https://github.com/q
 - Linux
 - Frontend (html, css, js, bootstrap)
 - Numpy, Scipy, Matplotlib, Plotly, Pandas
-- Understanding the inner workings of compilers
 - Math, WolframMathematica, Scilab
 
 **About me in life**
