@@ -12,6 +12,8 @@ Now i'm working as intern in the [@HUAWEI](https://github.com/Huawei) team on th
 
 I like development and IT in general because you can bring all your ideas to life!
 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=qnbhd)](https://github.com/anuraghazra/github-readme-stats)
+
 ***
 
 **My activities**:
