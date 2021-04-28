@@ -30,6 +30,8 @@ I like development and IT in general because you can bring all your ideas to lif
   - Web-development :: Flask, Django, DataBases(ORM, raw SQL), REST, frontend (html, css, js, ...)
   - Data Science, Machine Learning, Big Data
   - Latex
+
++ Blockchain, cryptocurrency, algorithmic trading
   
 My small repository with study notes and notebooks [cs-mat](https://github.com/qnbhd/cs-mat)
   
