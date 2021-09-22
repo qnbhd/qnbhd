@@ -4,7 +4,7 @@
 <a href="https://vk.me/qnbhd"><img height=32 width=32 src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg"/></a>
 <br>
 
-My name is Konstantin. (nickname: qnbhd or Kirigaya Yukimura)
+My name is Konstantin.
 
 I currently studying at Baltical State Technical University (Computer Science) and working as intern in the [@HUAWEI](https://github.com/Huawei) LLVM team.
 
