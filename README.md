@@ -52,7 +52,3 @@ My small repository with study notes and notebooks [cs-mat](https://github.com/q
 - Frontend (html, css, js, bootstrap)
 - Numpy, Scipy, Matplotlib, Plotly, Pandas
 - Math, WolframMathematica, Scilab
-
-**About me in life**
-
-A student, an inquisitive researcher, an enthusiast, a responsible team player who likes to take everything into his own hands and support others with knowledge and action.
