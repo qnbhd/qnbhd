@@ -6,7 +6,7 @@
 
 My name is Konstantin.
 
-I currently studying at Baltical State Technical University (Computer Science) and working as intern in the [@HUAWEI](https://github.com/Huawei) LLVM team.
+I currently studying at ITMO University on ML Engineering (AI Talent Hub) and working in the [@HUAWEI](https://github.com/Huawei) in AutoTools Team as Python Software Developer.
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=qnbhd)](https://github.com/anuraghazra/github-readme-stats)
 
