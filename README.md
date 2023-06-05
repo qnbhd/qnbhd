@@ -10,7 +10,7 @@
 
 ## About me
 
-Enthusiastic software developer with knowledge in DS, optimization, automation, compilers/interpreters, SW architecture, blockchain and interest in research. Now working at HUAWEI (Saint-Petersburg Research Center) in AutoTools team.
+Enthusiastic software developer with knowledge in DS, optimization, automation, compilers/interpreters, SW architecture, blockchain and interest in research.
 
 - I am constantly learning new things
 - I am developing my product mindset
