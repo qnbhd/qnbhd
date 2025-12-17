@@ -1,6 +1,6 @@
 ### Hi there, I'm Konstantin 👋 
 
-[LinkedIn](https://www.linkedin.com/in/konstantin-t-203033217/)  |  [Telegram](https://t.me/qnbhd)
+[Personal blog](https://qnbhd.github.io/)  |  [LinkedIn](https://www.linkedin.com/in/konstantin-t-203033217/)  |  [Telegram](https://t.me/qnbhd)
 
 
 <a href="https://github.com/qnbhd?tab=repositories&sort=stargazers">
